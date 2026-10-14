@@ -7,7 +7,7 @@ Settings → Pages → Deploy from a branch → main → / (root).
 Do not set a custom domain until the GitHub Pages test site has been reviewed.
 
 ## Preserved routes
-All 16 original page paths are represented. Privacy text is preserved and app-ads.txt is copied byte for byte. Downloaded images, CV and the Paper Basket report are local assets.
+All 16 original page paths are represented. Privacy text is preserved and app-ads.txt is copied byte for byte. Downloaded project images and reports are local assets. CV download links and the public CV file have been removed.
 
 ## Content to review
 - Cyber Security Game originally contained a duplicate of MediSim; the new page includes the official CyberQuest description, learning topics, image and play link. Original source is in the separate backup.
