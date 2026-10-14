@@ -15,7 +15,7 @@ All 16 original page paths are represented. Privacy text is preserved and app-ad
 - Daily Logs and Weekly Updates have little existing content.
 - Instagram, TikTok and Facebook point to platform homepages in the original source.
 - Experience dates need the owner's current confirmation.
-- MediSim dissertation and Lucy Spin design document links are not available. The existing report PDF belongs to Paper Basket and is linked on its own project page.
+- MediSim dissertation is linked as a local PDF recovered from the original embedded Drive document. Lucy Spin design document link is not available. The existing pbg_report PDF belongs to Paper Basket and is linked on its own project page.
 
 ## Migration
 Keep Hostinger hosting active. Review the test site before setting fabaygames.com, changing DNS, verifying www/HTTPS/privacy/app-ads.txt, and finally cancelling only hosting.
